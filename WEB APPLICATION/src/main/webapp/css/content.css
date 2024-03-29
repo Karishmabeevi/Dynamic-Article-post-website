@@ -1,0 +1,121 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: "Times New Roman", Times, serif;
+	box-sizing: border-box;
+}
+.header{
+	width: 100%;
+	min-height: 100vh;
+	background:linear-gradient(to right,#f4e7fb,#c3c7f3);
+	color:#004d74;
+	padding:10px 8%;
+	position: relative;
+}
+nav{
+	position: fixed;
+	top:0;
+	left: 0;
+	width: 100%;
+	padding: 15px 8%;
+	display: flex;
+	align-items: center;
+	z-index: 10;
+}
+nav ul{
+	flex: 1;
+	text-align: right;
+}
+nav ul li {
+      display: inline-block;
+      margin-right: 5px;
+}
+
+nav a {
+      text-decoration: none;
+      color: #004d74;
+      padding: 5px 15px;
+      transition: background-color 0.3s, color 0.3s;
+      outline:none;
+}
+nav a:hover {
+      background-color:linear-gradient(45deg,#B7C3F3, #FF6E7F);
+      color: #fff;
+}
+nav a:focus,
+nav a:active {
+      background-color:linear-gradient(45deg,#B7C3F3, #FF6E7F);
+      color: #fff;
+}
+
+nav h1{
+	margin: 0;
+    font-size: 30px;
+}
+nav button{
+	padding:10px 15px;
+	background:#fff;
+	border:0;
+	outline:0;
+	margin-top:20px;
+	margin-right:5px;
+	border-radius:25px;
+	font-weight:300;
+	cursor:pointer;
+	transition: background-color 0.3s ease;
+}
+nav button:hover {
+  background:linear-gradient(45deg,#B7C3F3, #FF6E7F); 
+}
+.article-container {
+ display: flex;
+ justify-content:center;
+ align-items: center;
+ height: 100vh;
+}
+.article-box {
+        border: 1px solid #ccc;
+        margin-bottom: 20px;
+        padding: 10px;
+        background:linear-gradient(to right,#f4e7fb,#c3c7f3); 
+    }
+.article-container h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.article {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.article h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.article p {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.article form {
+    margin-top: 10px;
+}
+
+.article form input[type="submit"] {
+    background-color: #cc0000;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.article form input[type="submit"]:hover {
+    background-color: #ff3333;
+}
+    
