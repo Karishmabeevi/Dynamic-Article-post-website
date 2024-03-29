@@ -31,4 +31,14 @@ Contributions to this project are welcome. Feel free to submit bug reports, feat
 
 Screenshot:
 
+![HOME](https://github.com/Karishmabeevi/Dynamic-Article-post-website/assets/165314643/89091136-d34f-4d0e-83ee-c5cf3298f5ac)
+![ABOUT](https://github.com/Karishmabeevi/Dynamic-Article-post-website/assets/165314643/a11e9391-28dc-46b8-adbf-833492b10147)
+![REGISTER](https://github.com/Karishmabeevi/Dynamic-Article-post-website/assets/165314643/8c72d1e1-6648-4b3e-bef1-641aba6c3f0c)
+![LOGIN](https://github.com/Karishmabeevi/Dynamic-Article-post-website/assets/165314643/a0c595b1-e4a5-4cc1-be42-57c4c945b09f)
+![ARTICLE CREATE](https://github.com/Karishmabeevi/Dynamic-Article-post-website/assets/165314643/24007e9c-860c-4c79-a900-839b5bf46064)
+![POST ARTICLE](https://github.com/Karishmabeevi/Dynamic-Article-post-website/assets/165314643/0465a7ec-b019-4c39-a4ae-3fcb116dbb78)
+![Adminlogin](https://github.com/Karishmabeevi/Dynamic-Article-post-website/assets/165314643/16eef418-5fc2-43c0-8ee5-8cdb789dc8a3)
+![Userinformation](https://github.com/Karishmabeevi/Dynamic-Article-post-website/assets/165314643/77fa4d24-5328-4741-900d-4cc78656607a)
+
+
 
