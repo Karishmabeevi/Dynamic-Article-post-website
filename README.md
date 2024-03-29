@@ -2,6 +2,10 @@ Dynamic Article Post Website
 
 This project is a dynamic web application for posting and managing articles, built using Java Servlets, JSP (JavaServer Pages), JDBC (Java Database Connectivity), Apache Tomcat, and MySQL.
 
+Website:
+
+  http://localhost:8080/Article_website/
+
 Features:
 - User Authentication: Allows users to sign up, log in, and log out securely.
 - Article Management: Users can create new articles, view existing articles, edit their own articles, and delete articles.
