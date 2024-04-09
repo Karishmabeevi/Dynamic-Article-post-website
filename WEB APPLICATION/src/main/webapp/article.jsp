@@ -47,7 +47,7 @@
                     <h2><%= resultSet.getString("title") %></h2>
                     <p><strong>Author:</strong> <%= resultSet.getString("author") %></p>
                     <p><%= resultSet.getString("content") %></p>
-                    <form method="post" action="delete.jsp">
+                    <form method="post" action="DeleteArticleServlet">
                         <input type="hidden" name="articleId" value="<%= resultSet.getInt("id") %>">
                         <input type="submit" value="Delete">
                     </form>
