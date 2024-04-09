@@ -16,7 +16,7 @@
 		<li><a href="home.jsp">HOME</a></li>
 		<li><a href="info.jsp">ABOUT</a></li>
 		<li><a href="admin.jsp">ADMIN LOGIN</a></li>
-		<li><button onclick="window.location.href='admin.jsp'">LOGOUT</button></li>
+		<li><button onclick="window.location.href='logout'">LOGOUT</button></li>
 	</ul>
 	</nav>
     <div class="container">
